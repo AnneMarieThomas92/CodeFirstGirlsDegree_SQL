@@ -1,9 +1,6 @@
 # CodeFirstGirlsDegree_SQL
 Code First Girls Degree: Data & SQL Assignment
 # Create a database
-# CodeFirstGirlsDegree_SQL
-Code First Girls Degree: Data & SQL Assignment
-# Create a database
 - I have created a database for a Doggy Day Care company. 
 - In this database I have held information about the dogs and contact details for their ownsers.
 - The dogs and owners are linked by their IDs in the ownership table. 
